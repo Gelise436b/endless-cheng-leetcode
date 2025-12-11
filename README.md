@@ -203,7 +203,7 @@
     - “连续 k 天评分” → 定长滑窗 + 条件分支；  
     - “长度为 K 且无重复” → 定长 + map.size() == K；  
   - 意识到**正向枚举并非总是最优**，有时逆向建模能将 O(k) 枚举降为 O(n) 单次滑窗。
-  - 已整理详细笔记：[《可获得的最大点数》](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E5%87%A0%E4%B9%8E%E5%94%AF%E4%B8%80%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)  
+  - 已整理详细笔记：[《可获得的最大点数》](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E5%8F%AF%E8%8E%B7%E5%BE%97%E7%9A%84%E6%9C%80%E5%A4%A7%E7%82%B9%E6%95%B0.md)  
 
 - **明日计划**：  
   - **重做 [1423]**，手写两种解法（逆向滑窗 + 正向前缀/后缀和），对比代码简洁性与性能；  
