@@ -305,7 +305,7 @@
     - **外部属性优化**（[2107]）：剩余集合种类数最大；  
     - **混合状态分离**（[1052], [3679]）：固定收益 + 窗口内可变收益；  
   - **放弃“hack 式编码”**：[3679] 中改写输入数组虽简洁，但牺牲可读性与健壮性；今后优先采用**显式状态容器**（如 `queue<int> kept`）；  
-  - 已更新笔记：[使库存平衡的最少丢弃次数](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E4%BD%BF%E5%BA%93%E5%AD%98%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E4%B8%A2%E5%BC%83%E6%AC%A1%E6%95%B0.md),[爱生气的书店老板](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E7%88%B1%E7%94%9F%E6%B0%94%E7%9A%84%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF.md),[重新安排会议得到最多空余时间I]()
+  - 已更新笔记：[使库存平衡的最少丢弃次数](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E4%BD%BF%E5%BA%93%E5%AD%98%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E4%B8%A2%E5%BC%83%E6%AC%A1%E6%95%B0.md),[爱生气的书店老板](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E7%88%B1%E7%94%9F%E6%B0%94%E7%9A%84%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF.md),[重新安排会议得到最多空余时间I](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E4%BC%9A%E8%AE%AE%E5%BE%97%E5%88%B0%E6%9C%80%E5%A4%9A%E7%A9%BA%E4%BD%99%E6%97%B6%E9%97%B4I.md)
 
 - **明日计划**：  
   - **深度复盘今日三题**：  
