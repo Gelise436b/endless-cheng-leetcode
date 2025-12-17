@@ -427,7 +427,7 @@
     - 滑窗中若需判断“是否可收缩”，必须能**精确知道移除某元素后状态是否恢复合法** → 必须用**频次哈希表**，而非集合；  
   - **接受“模板需微调”**：  
     - [1493] 实际要求子数组**至少含一个 1**（全 0 不合法），但因输入保证有 1，故无需特判；未来需注意**边界合法性校验**；
-    - [无重复字符的最长子串](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md),[删掉一个元素以后全为1的最长子数组]()
+    - [无重复字符的最长子串](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md),[删掉一个元素以后全为1的最长子数组](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E5%88%A0%E6%8E%89%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0%E4%BB%A5%E5%90%8E%E5%85%A8%E4%B8%BA1%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E6%95%B0%E7%BB%84.md)
 
 - **明日计划**：  
   - **巩固今日三题**：  
