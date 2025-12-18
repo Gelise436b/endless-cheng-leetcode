@@ -491,7 +491,7 @@
     - 窗口长度：`right - left + 1`（闭区间）；  
     - 哈希表清理：`if (--freq[x] == 0) freq.erase(x)`；  
     - 边界测试：空输入、全同元素、极端 K 值；
-    - [使数组平衡的最少移除数目]()
+    - [使数组平衡的最少移除数目](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E4%BD%BF%E6%95%B0%E7%BB%84%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%9C%80%E5%B0%91%E7%A7%BB%E9%99%A4%E6%95%B0%E7%9B%AE.md)
 
 - **明日计划**：  
   - **复习与纠偏**：  
