@@ -560,7 +560,7 @@
     - 二分答案题先写外壳再填 `check`；  
     - `check` 函数内部禁用外部同名变量，杜绝 shadowing；  
     - 提交前必跑三组极小样例并打印中间值；
-    - [考试的最大困扰度]()
+    - [考试的最大困扰度](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E8%80%83%E8%AF%95%E7%9A%84%E6%9C%80%E5%A4%A7%E5%9B%B0%E6%89%B0%E5%BA%A6.md)
 
 - **明日计划（Day 11）**：  
   - **重做 [2024]**：手写完整二分-定长滑窗模板，确保 5 分钟内一次过；  
