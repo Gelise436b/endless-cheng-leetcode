@@ -689,7 +689,7 @@
 * **滑窗逻辑修正**：
 * `min` 函数的参数永远是 `(ans, new_len)`，绝不可能是 `(left, ...)`。
 * `cnt` 数组的含义要明确：是“窗口内的统计”还是“窗口外的统计（补集）”？（1234题为后者）。
-* [无限数组的最短子数组](),[最小覆盖子串]()
+* [无限数组的最短子数组](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E6%97%A0%E9%99%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E7%9F%AD%E5%AD%90%E6%95%B0%E7%BB%84.md),[最小覆盖子串](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E6%9C%80%E5%B0%8F%E8%A6%86%E7%9B%96%E5%AD%90%E4%B8%B2.md),[替换子串得到平衡子串](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E6%9B%BF%E6%8D%A2%E5%AD%90%E4%B8%B2%E5%BE%97%E5%88%B0%E5%B9%B3%E8%A1%A1%E4%B8%B2.md)
 
 
 
