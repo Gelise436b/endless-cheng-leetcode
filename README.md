@@ -1086,6 +1086,7 @@ return ans;
 * **收获与改进**：
 * **通用模板升级**：现在可以处理更复杂的 `check()` 逻辑了。
 * **O(1) Check 思想**：以后遇到需要检查多个条件（比如 26 个字母、3 种类型等）的情况，不要每次都遍历，而是维护一个 `count` 变量来记录“满足条件的个数”。
+* 已整理笔记[统计重排后合法的子串数目 II](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E7%BB%9F%E8%AE%A1%E9%87%8D%E6%8E%92%E5%90%8E%E5%90%88%E6%B3%95%E7%9A%84%E5%AD%90%E4%B8%B2%E6%95%B0%E7%9B%AEII.md)
 
 
 * **明日计划（Day 17）**：
