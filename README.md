@@ -1160,6 +1160,8 @@ return ans;
 * **收获与改进**：
 * **模型固化**：以后看到“恰好 K 个”，条件反射式地写出 `return calc(k) - calc(k-1)`。
 * **下标贡献思想**：在 2495 中学会了利用下标距离直接计算答案，而不是傻傻地遍历子数组。
+* 已整理笔记[和相同的二元子数组﻿﻿](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E5%92%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E4%BA%8C%E5%85%83%E5%AD%90%E6%95%B0%E7%BB%84.md)
+
 
 
 * **明日计划（Day 18）**：
