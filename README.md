@@ -1243,7 +1243,7 @@ return ans;
 * **口诀升级**：
 * **AtMost (找上限)**：`f(k) - f(k-1)`，统计用 `right - left + 1`。
 * **AtLeast (找下限)**：`f(k) - f(k+1)`，统计用 `ans += left`。
-* 已整理笔记[元音辅音字符串计数 II﻿﻿]()
+* 已整理笔记[元音辅音字符串计数 II﻿﻿](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/sliding-window/%E5%85%83%E9%9F%B3%E8%BE%85%E9%9F%B3%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%AE%A1%E6%95%B0II.md)
 
 
 * **调试技巧**：当答案不对时，手动模拟一个极简 Case（如 "aeiou", k=0），看代码到底把哪些非法子数组算进去了。
